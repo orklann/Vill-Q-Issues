@@ -1,4 +1,4 @@
-# Vill-Q-Issues
+# Vill Q Issues
 Vill Q Issue Tracker
 
 This repository is only for issue tracking.
